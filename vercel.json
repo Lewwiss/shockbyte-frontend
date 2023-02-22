@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        { "source": "/create", "destination": "https://shockbyte-backend.vercel.app/create" },
+        { "source": "/(.*)", "destination": "/index.html" }
+    ]
+}

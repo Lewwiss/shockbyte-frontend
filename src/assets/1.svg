@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00B5D3;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#3800D8;}
+</style>
+<polygon id="Shape_120_" class="st0" points="400,400 400,600 200,600 200,400 "/>
+<polygon id="Shape_118_" points="400,400 200,600 200,400 "/>
+<path id="Shape_117_" class="st1" d="M375,502c0,41.4-33.6,75-75,75s-75-33.6-75-75s33.6-75,75-75S375,460.6,375,502z"/>
+<g transform="translate(1500.000000, 701.000000) rotate(-90.000000) translate(-1500.000000, -701.000000) translate(1400.000000, 601.000000)">
+	<polygon id="Shape_115_" class="st2" points="201,-1200 201,-1400 401,-1200 	"/>
+	
+		<rect id="Shape_113_" x="301" y="-1400" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 1701.0051 -999.006)" class="st0" width="100" height="100"/>
+	<polygon id="Shape_112_" class="st1" points="201,-1200 201,-1300 301,-1200 	"/>
+</g>
+<g transform="translate(1400.000000, 801.000000)">
+	<g>
+		<polygon id="Shape_8_" class="st2" points="-1000,-401 -1000,-601 -800,-401 		"/>
+	</g>
+</g>
+</svg>
